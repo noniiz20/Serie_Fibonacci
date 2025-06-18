@@ -97,7 +97,7 @@ console.log(seteo);
 
 /*------mapeo------*/
 
-function resul(ini, fin) {
+const resul =(ini,fin) => {
     resultado = new Map();
     let mapeo = 1;
     n1 = ini;
